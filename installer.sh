@@ -33,7 +33,7 @@ update_fastfetch() {
     # Copy the new Fastfetch configurations
     cp -R $FILES/* "$CONFDIR/"
 
-    echo "Fastfetch configuration updated successfully."
+    echo -e "${GREEN} Fastfetch configuration updated successfully. ${NC}"
 }
 
 
