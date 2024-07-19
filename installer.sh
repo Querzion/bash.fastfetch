@@ -15,7 +15,7 @@ NC='\033[0m' # No Color
 ################################################################################################## FILE & FOLDER PATHS
 
 # Location
-APPLICATION="arch-suite"
+APPLICATION="fastfetch"
 BASE="$HOME/bash.$APPLICATION"
 FILES="$BASE/files/fastfetch"
 CONFDIR="$HOME/.config/fastfetch"
